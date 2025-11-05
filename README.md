@@ -21,13 +21,24 @@ Siga estes passos no seu terminal para baixar e executar o script.
 
 ### 1. Baixar o Script
 
-Use `wget` ou `curl` para baixar o arquivo `install_unifi_controller.sh` diretamente para o seu servidor.
 
-# Se você estiver baixando de uma URL direta do seu repositório GitHub, use este formato:
+Faça o download do instalador diretamente do repositório no GitHub utilizando o comando git clone:
 
 ```bash
 git clone https://github.com/Jonathan-Nascimento/unifi-controller-ubuntu-installer.git
 ````
+
+Isso criará uma cópia local do repositório contendo o script install_unifi_controller.sh no seu servidor.
+
+
+Após o download, acesse o diretório criado:
+
+```bash
+cd unifi-controller-ubuntu-installer
+````
+
+Dentro dele, você encontrará o script install_unifi_controller.sh, pronto para execução.
+
 
 ### 2\. Dar Permissão de Execução
 
