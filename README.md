@@ -25,7 +25,7 @@ Use `wget` ou `curl` para baixar o arquivo `install_unifi_controller.sh` diretam
 
 ```bash
 # Se você estiver baixando de uma URL direta do seu repositório GitHub, use este formato:
-wget https://github.com/Jonathan-Nascimento/unifi-controller-ubuntu-installer.git
+git clone https://github.com/Jonathan-Nascimento/unifi-controller-ubuntu-installer.git
 ````
 
 ### 2\. Dar Permissão de Execução
